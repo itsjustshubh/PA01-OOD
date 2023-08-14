@@ -1,5 +1,7 @@
-# Some [[important [brackets]]]
-- This [[works]] [[ { as expected! } ]]
-- this is not part of the summary
-- [[CS3500]] is ([[==]])
-[[OOD.]]
+## Declaring an Array=- General Form: type[] arrayName=null=null=null
+# Some [[important [brackets]]]=- OOD=null=null
+# Java Arrays=null=null=null=null
+# Java Arrays=null=null=null
+## Declaring an Array=- General Form: type[] arrayName=null=null
+## Creating an Array (Instantiation)=- numberOfElements must be a positive Integer=null=null=null
+## Creating an Array (Instantiation)=- numberOfElements must be a positive Integer=null=null
