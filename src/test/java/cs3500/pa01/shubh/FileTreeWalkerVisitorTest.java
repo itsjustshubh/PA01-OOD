@@ -1,6 +1,6 @@
 package cs3500.pa01.shubh;
 
-import cs3500.pa01.TestExamples;
+import cs3500.pa01.shubh.TestExamples;
 import java.io.IOException;
 import java.nio.file.Path;
 import org.junit.jupiter.api.Assertions;

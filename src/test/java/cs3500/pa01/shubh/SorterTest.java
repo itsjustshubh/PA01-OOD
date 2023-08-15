@@ -3,7 +3,7 @@ package cs3500.pa01.shubh;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-import cs3500.pa01.TestExamples;
+import cs3500.pa01.shubh.TestExamples;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Path;
