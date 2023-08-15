@@ -1,4 +1,4 @@
-package cs3500.pa01;
+package cs3500.pa01.sumedh;
 
 import static org.junit.jupiter.api.Assertions.*;
 

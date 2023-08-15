@@ -1,16 +1,15 @@
-package cs3500.pa01;
-
-import static java.nio.file.FileVisitResult.CONTINUE;
+package cs3500.pa01.shubh;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.*;
 import java.nio.file.FileVisitResult;
 import java.nio.file.FileVisitor;
-import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.ArrayList;
 
+import static java.nio.file.FileVisitResult.CONTINUE;
 /**
  * A visitor for traversing a directory tree and collecting files of a specific type.
  */
